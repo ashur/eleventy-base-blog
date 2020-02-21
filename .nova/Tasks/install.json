@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "npm install"
+    }
+  },
+  "identifier" : "7A3FE9E6-9B35-4275-A5D7-6901E1EBF333",
+  "openLogOnRun" : "start"
+}

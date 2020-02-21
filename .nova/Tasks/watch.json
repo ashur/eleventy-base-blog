@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "npm run watch"
+    }
+  },
+  "identifier" : "550CA5C4-F89A-4C1B-815B-6710A186A72F"
+}
