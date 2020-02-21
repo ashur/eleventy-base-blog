@@ -15,6 +15,8 @@ These builders are amazing—try them out to get your own Eleventy site in a few
 
 * [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
 * [Get your own Eleventy web site on ZEIT Now](https://zeit.co/new/project?template=11ty/eleventy-base-blog)
+* [Clone in Nova ✨](nova://clone?url=https://github.com/ashur/eleventy-base-blog.git)
+
 
 ## Getting Started
 
